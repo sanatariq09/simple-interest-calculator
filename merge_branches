@@ -1,0 +1,5 @@
+git checkout main
+[actual output]
+
+git merge bug-fix-typo
+[actual output]
